@@ -1,0 +1,21 @@
+#headerAbout{
+	font-size: 140px;
+	font-family: 'LEMON MILK Bold', sans-serif;
+	position: absolute;
+	top: 25%;
+	left: 29%;
+	letter-spacing: 15px;
+	color:white;
+	text-shadow: 10px 10px 10px #000000;
+}
+.navbar{
+	font-size: 25px;
+	font-family: 'Candy Beans';
+	float: right;
+	text-decoration: none;
+	margin-right: 200px;
+	margin-top: 27px;
+	color: white;
+	
+	
+}

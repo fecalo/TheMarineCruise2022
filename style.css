@@ -1,0 +1,150 @@
+*
+{
+	margin: 0;
+	padding:0;
+}
+body{
+  background-image: url('ocean.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+.navbar{
+	font-size: 25px;
+	font-family: 'Candy Beans';
+	float: right;
+	text-decoration: none;
+	margin-right: 200px;
+	margin-top: 27px;
+	color: white;
+	
+	
+}
+.homeText1{
+	font-size: 140px;
+	font-family: 'LEMON MILK Bold', sans-serif;
+	position: absolute;
+	top: 25%;
+	left: 29%;
+	letter-spacing: 15px;
+	color:white;
+	text-shadow: 10px 10px 10px #000000;
+}
+.homeText2{
+	font-size: 140px;
+	font-family: 'LEMON MILK Bold', sans-serif;
+	position: absolute;
+	top: 50%;
+	left: 14%;
+	letter-spacing: 15px;
+	color:white;
+	text-shadow: 10px 10px 10px #000000;
+}
+.bgImage{
+	width:100%;
+	background-size: cover;
+	border-bottom:0px;
+	vertical-align:top;
+}
+.bgColor{
+	background-color: black;
+}
+div{
+	display: block;
+}
+.navbarlogo{
+	height: 85px;
+	width: 100px;
+}
+.bgImage1{
+	height:100px;
+	width:100%;
+	vertical-align:top;
+	
+}
+.homeText3{
+	font-size: 75px;
+	font-family:'Candy Beans';
+	position: absolute;
+	color:white;
+	letter-spacing: 10px;
+	left: 3%;
+	
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+.bgImage2{
+	height:250px;
+	width:1339px;
+	vertical-align:top;
+	display:block;
+	border: 5px solid #000000;
+	
+}
+.homeText4{
+	font-size: 30px;
+	font-family:'Please write me a song', sans-serif;
+	position: absolute;
+	color:black;
+	font-weight: bolder;
+	top: 2%;
+	left: 1%;
+	right: 1%;
+	text-align: justify;
+    text-justify: inter-word;
+	word-spacing: 5px;
+}
+.bgImage3{
+	height:90px;
+	width:100%;
+	vertical-align:top;
+	display:block;
+	
+}
+.homeText5{
+	font-size: 25px;
+	font-family: 'LEMON MILK Bold', sans-serif;
+	font-weight: bolder;
+	font-style:italic;
+	word-spacing: 10px;
+	position: absolute;
+	margin-top: 15px;
+	color: black;
+	left:38%;
+	text-align:center;
+}
+.link1{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	font-size: 24px;
+	border: 2px solid #000000;
+	padding: 14px 70px;
+	border-radius:50px;
+	margin-top: 20px;
+	position: absolute;
+	left: 31%;
+	font-family:'Candy Beans';
+	letter-spacing: 3px;
+
+}	
+.squarelink:link{
+	text-decoration:none;
+	color: white;
+}
+.squarelink:hover{
+	color: black;
+}
+.squarelink:active{
+	color:black;
+}
+.squarelink:visited{
+	color:white;
+}
+
+	
+	
